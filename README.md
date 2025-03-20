@@ -18,11 +18,10 @@ The project includes:
 ## 📂 Project Files
 | 📂 File | 🔹 Description |
 |---------|--------------|
-| `Medibank_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
-| `Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
-| `Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
-| `Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
-| `Medibank_Presentation.mp4` | **Recorded video presentation** |
+| `Medibank_Security_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
+| `📊-Medibank_Risk_Register_Assessment.pdf` | **Risk matrix** with impact analysis |
+| `Medibank_Gantt_Chart` | **Implementation timeline** for security improvements |
+| `Medibank_Presentation.pdf` | **PowerPoint slides** (executive-friendly) |
 | `Images/` | **Visuals: Risk heatmap, Gantt chart, executive summary** |
 
 ## 🎯 Key Security Recommendations
@@ -33,10 +32,10 @@ The project includes:
 🔹 **Segment the network** to contain lateral movement  
 
 ## 📊 Risk Heatmap Visualisation
-![Risk Heatmap](Images/Risk_Heatmap.png)
+![Risk Heatmap](Medibank-Security-Risk-Assessment/Medibank 2022 Breach_Risk Heatmap.png)
 
 ## 📈 Project Timeline
-![Gantt Chart](Images/Gantt_Chart.png)
+![Gantt Chart](Medibank-Security-Risk-Assessment/Medibank 2022 Breach_Risk Mitigation Strategy Implementation Plan.png)
 
 ## 🎤 Video Presentation
 📽️ Watch the full risk assessment video presentation here: **[YouTube Link or GitHub Upload]**
