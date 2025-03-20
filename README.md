@@ -42,6 +42,8 @@ The project includes:
 ## 🎤 Video Presentation
 📽️ Watch the full risk assessment video presentation [**here**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link):
 
+![](Medibank_Presentation_Preview.png)
+
 ---
 
 ## 📌 How to Use This Project
