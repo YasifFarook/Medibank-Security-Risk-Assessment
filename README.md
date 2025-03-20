@@ -4,6 +4,7 @@
 This project presents a **security risk assessment** for Medibank following its **2022 cyber breach**, with a structured **risk mitigation strategy** aligned with **ISO 27001, APRA CPS 234, and the Australian Privacy Act**.
 
 The project includes:
+
 ✅ A **detailed risk register** identifying key security threats  
 ✅ **Mitigation strategies** to enhance Medibank’s security posture  
 ✅ A **Gantt chart** outlining a **realistic security implementation plan**  
@@ -22,7 +23,7 @@ The project includes:
 | 📊-`Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
 | 📈-`Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
 | 📺-`Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
-| 📺-`Medibank_Presentation.mp4` | **Recorded video presentation** |
+| 📺-`Medibank_Presentation.mp4` | [**Recorded video presentation**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link) |
 | 📸-`Images/` | **Visuals: Risk heatmap, Gantt chart, Executive summary** |
 
 ## 🎯 Key Security Recommendations
@@ -39,7 +40,7 @@ The project includes:
 ![Gantt Chart](Risk_Mitigation_Strategy_Implementation_Plan.png)
 
 ## 🎤 Video Presentation
-📽️ Watch the full risk assessment video presentation here: **[YouTube Link or GitHub Upload]**
+📽️ Watch the full risk assessment video presentation [**here**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link):
 
 ---
 
