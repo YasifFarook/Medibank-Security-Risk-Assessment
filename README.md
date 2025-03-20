@@ -22,7 +22,7 @@ The project includes:
 | 📊-`Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
 | 📈-`Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
 | 📺-`Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
-| 📺-`Medibank_Presentation.mp4` | **Recorded video presentation** |
+| 📺-`Medibank_Presentation.mp4` | [**Recorded video presentation**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link) |
 | 📸-`Images/` | **Visuals: Risk heatmap, Gantt chart, Executive summary** |
 
 ## 🎯 Key Security Recommendations
@@ -39,7 +39,7 @@ The project includes:
 ![Gantt Chart](Risk_Mitigation_Strategy_Implementation_Plan.png)
 
 ## 🎤 Video Presentation
-📽️ Watch the full risk assessment video presentation here: **[YouTube Link or GitHub Upload]**
+📽️ Watch the full risk assessment video presentation [**here**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link):
 
 ---
 
