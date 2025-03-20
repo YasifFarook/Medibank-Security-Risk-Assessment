@@ -19,10 +19,10 @@ The project includes:
 ## 📂 Project Files
 | 📂 File | 🔹 Description |
 |---------|--------------|
-| 📄-`Medibank_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
-| 📊-`Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
+| 📄-`Medibank_Risk_Assessment_Report.pdf` | Full **consulting-style risk [report](https://drive.google.com/file/d/1kGvxTeymv2OMX9KuJAgMrnH6eSZsOUrx/view?usp=drive_link)** |
+| 📊-`Medibank_Risk_Register.xlsx` | [**Risk matrix**](https://drive.google.com/file/d/1K6bUUMXBXu0LcqsufoV3gmd3Fxda8qZD/view?usp=drive_link) with impact analysis |
 | 📈-`Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
-| 📺-`Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
+| 📺-`Medibank_Presentation.pptx` | **PowerPoint [slides](https://drive.google.com/file/d/1_iAKuGR8AN50KU8T4hKJrVCQXDLyVsLp/view?usp=drive_link)** (executive-friendly) |
 | 📺-`Medibank_Presentation.mp4` | [**Recorded video presentation**](https://drive.google.com/file/d/1QEfKRrpeZrh9YCwIsLdA2c-ORRm9M4_k/view?usp=drive_link) |
 | 📸-`Images/` | **Visuals: Risk heatmap, Gantt chart, Executive summary** |
 
