@@ -32,10 +32,10 @@ The project includes:
 🔹 **Segment the network** to contain lateral movement  
 
 ## 📊 Risk Heatmap Visualisation
-![Risk Heatmap](Medibank-Security-Risk-Assessment/Medibank 2022 Breach_Risk Heatmap.png)
+![Risk Heatmap](Risk_Heatmap.png)
 
 ## 📈 Project Timeline
-![Gantt Chart](Medibank-Security-Risk-Assessment/Medibank 2022 Breach_Risk Mitigation Strategy Implementation Plan.png)
+![Gantt Chart](Risk_Mitigation_Strategy_Implementation_Plan.png)
 
 ## 🎤 Video Presentation
 📽️ Watch the full risk assessment video presentation here: **[YouTube Link or GitHub Upload]**
