@@ -18,12 +18,12 @@ The project includes:
 ## 📂 Project Files
 | 📂 File | 🔹 Description |
 |---------|--------------|
-| `Medibank_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
-| `Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
-| `Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
-| `Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
-| `Medibank_Presentation.mp4` | **Recorded video presentation** |
-| `Images/` | **Visuals: Risk heatmap, Gantt chart, executive summary** |
+| 📄-`Medibank_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
+| 📊-`Medibank_Risk_Register.xlsx` | **Risk matrix** with impact analysis |
+| 📈-`Medibank_Gantt_Chart.xlsx` | **Implementation timeline** for security improvements |
+| 📺-`Medibank_Presentation.pptx` | **PowerPoint slides** (executive-friendly) |
+| 📺-`Medibank_Presentation.mp4` | **Recorded video presentation** |
+| 📸-`Images/` | **Visuals: Risk heatmap, Gantt chart, Executive summary** |
 
 ## 🎯 Key Security Recommendations
 🔹 **Enforce Multi-Factor Authentication (MFA)** to prevent unauthorised access  
