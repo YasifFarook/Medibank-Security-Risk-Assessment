@@ -21,7 +21,7 @@ The project includes:
 | `Medibank_Security_Risk_Assessment_Report.pdf` | Full **consulting-style risk report** |
 | `📊-Medibank_Risk_Register_Assessment.pdf` | **Risk matrix** with impact analysis |
 | `Medibank_Gantt_Chart` | **Implementation timeline** for security improvements |
-| `Medibank_Presentation.pdf` | **PowerPoint slides** (executive-friendly) |
+| `Strengthening Medibank’s Security & Privacy Posture_Presentation.pdf` | **PowerPoint slides** (executive-friendly) |
 | `Images/` | **Visuals: Risk heatmap, Gantt chart, executive summary** |
 
 ## 🎯 Key Security Recommendations
