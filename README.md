@@ -33,10 +33,10 @@ The project includes:
 🔹 **Segment the network** to contain lateral movement  
 
 ## 📊 Risk Heatmap Visualisation
-![Risk Heatmap](Images/Risk_Heatmap.png)
+![Risk Heatmap](Risk_Heatmap.png)
 
 ## 📈 Project Timeline
-![Gantt Chart](Images/Gantt_Chart.png)
+![Gantt Chart](Risk_Mitigation_Strategy_Implementation_Plan.png)
 
 ## 🎤 Video Presentation
 📽️ Watch the full risk assessment video presentation here: **[YouTube Link or GitHub Upload]**
